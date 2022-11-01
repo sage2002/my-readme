@@ -30,7 +30,7 @@
 
 [![Gunjan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gunjansaha55&theme=tokyonight)](https://github.com/gunjansaha55?tab=repositories)
 
-<p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjansaha55&show_icons=true&locale=en&layout=compact" alt="gunjansaha55" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunjansaha55&show_icons=true&locale=en" alt="gunjansaha55" /></p>
 
