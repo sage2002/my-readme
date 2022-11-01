@@ -28,7 +28,7 @@
 <a href= https://www.apple.com/in/macos> <img width ='40px' src ='https://img.icons8.com/ios-glyphs/144/000000/mac-client.png'> </a>
 <a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
 
-
+[![Gunjan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gunjansaha55&theme=tokyonight)](https://github.com/gunjansaha55?tab=repositories)
 
 <p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjansaha55&show_icons=true&locale=en&layout=compact" alt="gunjansaha55" /></p>
 
