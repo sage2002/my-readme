@@ -1,5 +1,5 @@
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&width=1200&lines=<<+Welcome+To+Gunjan's+GitHub+Profile+>>)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&width=1000&lines=<<+Welcome+To+Gunjan's+GitHub+Profile+>>)](https://git.io/typing-svg)
 
 
 
