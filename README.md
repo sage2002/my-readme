@@ -42,6 +42,6 @@
 <div align = "center">
  
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{JaynouOliver}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{gunjansaha55}/count.svg)
 
 </div>
