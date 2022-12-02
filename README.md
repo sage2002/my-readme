@@ -15,6 +15,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/gunjansaha55" target="blank"><img src="https://img.shields.io/twitter/follow/gunjansaha55?logo=twitter&style=for-the-badge" alt="gunjansaha55" /></a> </p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 📫 How to reach me **gunjansaha976@gmail.com**
 
