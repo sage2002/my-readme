@@ -14,7 +14,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/gunjansaha55" target="blank"><img src="https://img.shields.io/twitter/follow/gunjansaha55?logo=twitter&style=for-the-badge" alt="gunjansaha55" /></a> </p>
+
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 - Learning Full Stack Web Development.
