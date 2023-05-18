@@ -51,7 +51,7 @@ Some Extra things I know -
 <a href= https://code.visualstudio.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/visual-studio-code-2019.png'> </a>
 <a href= https://www.apple.com/in/macos> <img width ='40px' src ='https://img.icons8.com/ios-glyphs/144/000000/mac-client.png'> </a>
 <a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
-
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
 
 
