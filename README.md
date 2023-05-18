@@ -35,8 +35,8 @@ Some Extra things I know -
 2) Photo editing
 
 - 📫 How to reach me **gunjansaha976@gmail.com**
-
-- ⚡ Fun fact **I think I always manage everything.😂**
+- ⚡ Fun fact - **I think I always manage everything.😂**
+- ⚽️ Football Lover 🫶
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
