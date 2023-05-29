@@ -20,9 +20,7 @@
 - I have been pursuing a B.Tech degree in Computer Science and Business Systems from the Academy of Technology. 
 Languages Known - 
 
-1) Java 
-2) C 
-3) C++
+1) Java
 
 Learning - 
 
