@@ -1,7 +1,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunjansaha976@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gunjansaha55)
+[![Twitter]([https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://imgs.search.brave.com/EGEk1Fm0pRgplDhtdHH4t59Thv4um6Phj2al8O9DE4Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LXR3aXR0ZXItOTQy/MDc4Mi03NjUxMjEy/LnBuZz9mPXdlYnAm/dz0xMjg))](https://twitter.com/gunjansaha55)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunjansaha55)
+
 
 
 
