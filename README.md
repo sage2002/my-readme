@@ -1,71 +1,65 @@
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pit.monticone@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PietroMonticone)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pitmonticone)
+[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/72791609-pietro-monticone)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PietroMonticone)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@PietroMonticone)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://julialang.social/@PietroMonticone)
+
+![GitHub Metrics](github-metrics.svg)
 
 
+## Past Projects
 
+### Computational Social Science 
+- [Ego Graph Analysis on Facebook and Twitter](https://github.com/pitmonticone/SocialMediaEgoGraphAnalysis).
 
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-[![@gunjansaha55's Holopin board](https://holopin.me/gunjansaha55)](https://holopin.io/@gunjansaha55)
+### Computational Epidemiology & Public Health 
+- [ICD_GEMs.jl: A Julia Package to Translate Between ICD-9 and ICD-10 Codes](https://github.com/JuliaHealth/ICD_GEMs.jl); 
+- [Italian COVID-19 integrated surveillance dataset disaggregated by region, age and sex](https://github.com/InPhyT/COVID19-Italy-Integrated-Surveillance-Data); 
+- [Piedmont COVID-19 Data Modelling & Management](https://github.com/UniTo-SEPI/COVID-19_Piedmont).
 
-<h1 align="center">Hi 👋, I'm Gunjan Saha</h1>
-<h3 align="center">CS Undergrad | Open-source Contributor </h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+### Data Mining & Machine Learning 
+- [User Gender Classification on Reddit applying NLP](https://github.com/pitmonticone/RedditTextClassification);
+- [BERT Sentiment Classification on the IMDb Large Movie Review Dataset](https://github.com/pitmonticone/BertSentimentClassification);
+- [Dataset Analysis and CNN Models Optimization for Plant Disease Classification](https://github.com/pitmonticone/PlantDiseaseClassification).
 
+### Time Series Analysis 
+- [UnrollingAverages.jl: A Julia Package to Deconvolve Time Series Data](https://github.com/InPhyT/UnrollingAverages.jl).
 
+## Current Projects  
 
+### Applied Graph Theory / Network Science 
+- [MultilayerGraphs.jl: A Julia Package to Construct, Handle and Analyse Multilayer Graphs](https://github.com/JuliaGraphs/MultilayerGraphs.jl).
 
+### Computational Epidemiology & Public Health 
+- [ComputationalEpidemiology.jl: A Julia Package for Computational Epidemiology]().
 
+### Computational Neuroscience 
+- [NeuronalModeling.jl: A Julia Package for Single-Neuron Modelling]().
 
+### Computational Simulation and Optimisation 
+- [ModellingFramework.jl: A Julia Package for Domain-Specific Modelling and Optimisation]().
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- I have been pursuing a B.Tech degree in Computer Science and Business Systems from the Academy of Technology. 
+## Talks 
 
+### 2023 
 
-Languages Known - 
+#### [18th Workshop on Algorithms and Models for Web Graphs](http://www.fields.utoronto.ca/activities/22-23/waw2023)
 
-1) Java
+- **When:** 2023/05/23 - 2023/05/26
+- **Where:** [The Fields Institute](http://www.fields.utoronto.ca/), Toronto, Canada
+- **Who:** [Pietro Monticone](https://github.com/pitmonticone) and [Claudio Moroni](https://github.com/ClaudMor)
+- **What:** "Multilayer Network Science in Julia with [`MultilayerGraphs.jl`](https://github.com/JuliaGraphs/MultilayerGraphs.jl)" ([Website](http://www.fields.utoronto.ca/talks/Multilayer-Network-Science-Julia-MultilayerGraphsjl), [Slides](https://inphyt.github.io/Talks/2023/WAW/index.html), [Video](https://youtu.be/hB8Vrwkwax0))
 
-Learning - 
+[![WAW 2023 Talk](https://i.ytimg.com/vi/hB8Vrwkwax0/maxresdefault.jpg)](https://www.youtube.com/watch?v=hB8Vrwkwax0) 
 
-1) Full-stack Web Development
-2) UI/UX
-3) Blender
+#### [JuliaCon 2023](https://juliacon.org/2023/)
 
-Some Extra things I know - 
-1) Video editing 
-2) Photo editing
+- **When:** 2023/07/25 - 2023/07/29
+- **Where:** [Massachusetts Institute of Technology](https://www.mit.edu), Cambridge, MA, USA
+- **Who:** [Pietro Monticone](https://github.com/pitmonticone) and [Claudio Moroni](https://github.com/ClaudMor)
+- **What:** "[`MultilayerGraphs.jl`](https://github.com/JuliaGraphs/MultilayerGraphs.jl): Multilayer Network Science in Julia" ([Website](https://pretalx.com/juliacon2023/talk/MS7YWQ/), [Short Presentation](https://inphyt.github.io/Talks/2023/JuliaCon/short/index.html), [Long Presentation](https://inphyt.github.io/Talks/2023/JuliaCon/long/index.html), [Video](https://youtu.be/Q2PwKQCkZJ4))
 
-- 📫 How to reach me **gunjansaha976@gmail.com**
-- ⚡ Fun fact - **I think I always manage everything.😂**
-- ⚽️ Football Lover 🫶
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gunjansaha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gunjansaha55" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gunjansaha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunjansaha55" height="30" width="40" /></a>
-<a href="https://fb.com/gunjansaha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gunjansaha55" height="30" width="40" /></a>
-<a href="https://instagram.com/gunjansaha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gunjansaha55" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<a href= https://code.visualstudio.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/visual-studio-code-2019.png'> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<a href= https://www.apple.com/in/macos> <img width ='40px' src ='https://img.icons8.com/ios-glyphs/144/000000/mac-client.png'> </a>
-<a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunjansaha55&show_icons=true&locale=en" alt="gunjansaha55" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjansaha55&" alt="gunjansaha55" /></p>
-
-
-
-<div align = "center">
- 
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{gunjansaha55}/count.svg)
-
-</div>
+[![JuliaCon 2023 Talk](https://i.ytimg.com/vi/Q2PwKQCkZJ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q2PwKQCkZJ4) 
