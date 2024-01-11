@@ -7,5 +7,5 @@
 
 
 ### Projects - 
-- [Shoes website clone]([[https://github.com/pitmonticone/SocialMediaEgoGraphAnalysis](https://github.com/gunjansaha55/shoes_website_clone.git)https://github.com/gunjansaha55/shoes_website_clone.git](https://github.com/gunjansaha55/shoes_website_clone)https://github.com/gunjansaha55/shoes_website_clone).
+- [Shoes website clone](https://github.com/gunjansaha55/shoes_website_clone).
 
