@@ -77,5 +77,15 @@
 </picture>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gunjansaha55&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjansaha55&theme=highcontrast)
+<img src="https://streak-stats.demolab.com?user=gunjansaha55&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph" /> <br>
+
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjansaha55&theme=highcontrast)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjansaha55&theme=highcontrast)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunjansaha55&theme=highcontrast)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunjansaha55&theme=highcontrast&utcOffset=8)
+
+![](https://github-profile-trophy.vercel.app/?username=gunjansaha55&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
 </div>
