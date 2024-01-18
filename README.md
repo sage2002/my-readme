@@ -17,6 +17,7 @@
 </p>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" width="60" alt="windows8 logo"/>
+ <a href= https://www.apple.com/in/macos> <img width ='40px' src ='https://img.icons8.com/ios-glyphs/144/000000/mac-client.png'> </a>
 </div>
 
 
