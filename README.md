@@ -3,6 +3,7 @@
 # 💫 About Me:
  🌱 I'm Gunjan Saha from Bhadreswar(West Bengal, India). I have been pursuing a B.Tech degree in Computer Science and Business Systems from the Academy of Technology(Adisaptagram, West Bengal, India). I like playing football and basketball. Currently, I am exploring all tech fields.<br><br>📫 How to reach me **gunjansaha976@gmail.com**<br><br> ⚡ Fun fact - **I think I always manage everything.😂** 
 
+# 👨‍💻 Language :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css" />
