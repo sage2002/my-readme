@@ -15,7 +15,9 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
   </a>
 </p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" width="60" alt="windows8 logo"  />
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" width="60" alt="windows8 logo"/>
+</div>
 
 
 
