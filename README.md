@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
- 🌱 I'm Gunjan Saha from Bhadreswar(West Bengal, India). I have been pursuing a B.Tech degree in Computer Science and Business Systems from the Academy of Technology(Adisaptagram, West Bengal, India). I like playing football and basketball. Currently, I am exploring all tech fields.<br><br>📫 How to reach me **gunjansaha976@gmail.com**<br><br> ⚡ Fun fact - **I think I always manage everything.😂** 
+ 🌱I'm Gunjan Saha, I'm pursuing a B.Tech degree in Computer Science and Business Systems from the Academy of Technology. I don't give up on everything, but at least I try. Also, I like to play football and basketball.<br><br>📫 How to reach me **gunjansaha976@gmail.com**<br><br> ⚡ Fun fact - **I think I always manage everything.😂** 
 
 
 
