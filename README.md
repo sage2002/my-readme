@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
- 🌱I'm Gunjan Saha, I'm pursuing a B.Tech degree in Computer Science and Business Systems from the Academy of Technology. I don't give up on everything, but at least I try. Also, I like to play football and basketball.<br><br>📫 How to reach me **gunjansaha976@gmail.com**<br><br> ⚡ Fun fact - **I think I always manage everything.😂** 
+ 🌱Gunjan Saha, a B.Tech student in Computer Science and Business Systems at the Academy of Technology, is a dedicated and goal-oriented individual with hands-on experience in startup environments. Currently serving as a Partnerships and Community Manager at ProjectX, Gunjan brings a strong work ethic, adaptability, and a solutions-driven mindset to every task. Passionate about leveraging technology to drive innovation, he excels in collaboration and problem-solving. Beyond academics and work, his active participation in team sports like football and basketball highlights his teamwork and leadership abilities.<br><br>📫 How to reach me **gunjansaha976@gmail.com**<br><br> ⚡ Fun fact - **I excel at effectively managing multiple responsibilities and ensuring smooth coordination across tasks and projects.😂** 
 
 
 
