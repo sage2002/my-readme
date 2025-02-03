@@ -3,7 +3,15 @@
 
 
 # 💫 About Me:
- 🌱Gunjan Saha, a B.Tech student in Computer Science and Business Systems at the Academy of Technology, is a dedicated and goal-oriented individual with hands-on experience in startup environments. Currently serving as a Partnerships and Community Manager at ProjectX, Gunjan brings a strong work ethic, adaptability, and a solutions-driven mindset to every task. Passionate about leveraging technology to drive innovation, he excels in collaboration and problem-solving. Beyond academics and work, his active participation in team sports like football and basketball highlights his teamwork and leadership abilities.<br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ Fun fact - **I excel at effectively managing multiple responsibilities and ensuring smooth coordination across tasks and projects.** 
+ 👩‍💻 A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitive and visually appealing digital experiences. With a knack for front-end and back-end development, I turn ideas into reality with clean code and pixel-perfect designs.
+
+💡 Beyond tech, I bring strong leadership skills, ensuring smooth collaboration and innovation in every project.
+
+📖🍳🎨 When I’m not coding or designing, you’ll find me reading books, experimenting in the kitchen, or creating new designs.
+
+🚀 Always learning, always building—let’s connect and create something amazing!
+
+<br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ Fun fact - **"Designing with heart, coding with edge—where pixels meet personality!" 🎨💻✨** 
 
 
 
