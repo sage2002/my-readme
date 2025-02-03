@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=F790C6&multiline=true&width=435&height=88&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=F790C6&multiline=true&width=435&height=60&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 # 💫 About Me: 🦋
 A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitive and visually appealing digital experiences. With a knack for front-end and back-end development, I turn ideas into reality with clean code and pixel-perfect designs.🩷
 
 💡 Beyond tech, I bring strong leadership skills, ensuring smooth collaboration and innovation in every project.
+
 📖🍳🎨 When I’m not coding or designing, you’ll find me reading books, experimenting in the kitchen, or creating new designs.
 🚀 Always learning, always building—let’s connect and create something amazing!
 <br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ Fun fact - **"Designing with heart, coding with edge—where pixels meet personality!" 🎨💻✨** 
