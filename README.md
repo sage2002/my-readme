@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=F790C6&multiline=true&width=435&height=88&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile..+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=F790C6&multiline=true&width=435&height=88&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile+%3A)](https://git.io/typing-svg)
 
 
 
