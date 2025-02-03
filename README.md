@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FCC6FF&center=true&random=false&width=435&lines=Hi%1C+Myself+Snigdha+Kundu.)](https://git.io/typing-svg)
+https://readme-typing-svg.demolab.com/demo/?font=Poppins&weight=500&size=25&color=F790C6&multiline=true&height=88&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile..+%3A)
 
 
 
