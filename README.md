@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=F790C6&multiline=true&width=435&height=60&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=F790C6&multiline=true&width=435&height=70&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 # 💫 About Me: 🦋
 A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitive and visually appealing digital experiences. With a knack for front-end and back-end development, I turn ideas into reality with clean code and pixel-perfect designs.🩷
@@ -61,7 +61,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 <picture>
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
@@ -76,14 +76,14 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 <div align="center">
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjansaha55&theme=highcontrast)
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sage2002&theme=highcontrast)
 <img src="https://streak-stats.demolab.com?user=sage2002&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph"/>
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjansaha55&theme=highcontrast)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjansaha55&theme=highcontrast)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunjansaha55&theme=highcontrast)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunjansaha55&theme=highcontrast&utcOffset=8)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sage2002&theme=highcontrast)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sage2002&theme=highcontrast)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sage2002&theme=highcontrast)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sage2002&theme=highcontrast&utcOffset=8)
 
-![](https://github-profile-trophy.vercel.app/?username=gunjansaha55&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sage2002&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
