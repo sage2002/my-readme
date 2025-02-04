@@ -18,7 +18,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,flutter,typescript,javascript" />
   </a>
 </p>
 <div align="center">
@@ -38,12 +38,12 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=DE3163&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
       </a>
 
-  <a href="https://twitter.com/gunjansaha55">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  <a href="https://x.com/kundusnigdha02">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=FF8383&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   
-  <a href="https://www.instagram.com/gunjansaha55/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo"/>
+  <a href="https://www.instagram.com/_.mimmie02._/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=FFCFCF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo"/>
   </a>
   
 
@@ -61,7 +61,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 <picture>
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
